@@ -9,12 +9,12 @@
 
 <h2>Tachnologies</h2>
 <ul>
-  <li><a href="https://pt-br.reactjs.org/">React</a></li>
-  <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-  <li><a href="https://nextjs.org/">Next JS</a></li>
   <li><a href="https://sass-lang.com/">Sass</a></li>
+  <li><a href="https://pt-br.reactjs.org/">React</a></li>
   <li><a href="https://stripe.com/en-br">Stripe</a></li>
+  <li><a href="https://nextjs.org/">Next JS</a></li>
   <li><a href="https://fauna.com/">Fauna DB</a></li>
+  <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
 </ul>
 
 <h2>Layout</h2>
