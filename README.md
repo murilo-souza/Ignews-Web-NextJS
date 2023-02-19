@@ -1,7 +1,9 @@
 <h1 align="center">Ignews</h1>
 <br/>
 
-![ignews](https://user-images.githubusercontent.com/53982668/137417130-8f035f7b-8bef-4bc3-85eb-bfa19db0a7a9.png)
+![image](https://user-images.githubusercontent.com/53982668/219905522-c4b3084d-937a-4cf2-aa7a-bd449ea6e921.png)
+
+
 
 <h2>Project</h2>
 <p>Created to learn how to use next js, understand how to use a database with next js and use api to see how to make an application with a payment service</p>
